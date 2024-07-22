@@ -1,0 +1,50 @@
+{
+"Enfermedad": "Mal rosado",
+
+"Descripción":"La enfermedad conocida como "mal rosado" en el café es causada por el hongo Corticium salmonicolor",
+
+"Imagen":"https://www.agrisolucion.com/media/media/blog/2021/02/10/captura-de-pantalla-2021-02-10-a-las-172629.png",
+
+"Extendido": Comúnmente la enfermedad ocurre en cafetales con poca aireación, incrementándose en época de mayor precipitación cuando predomina un ambiente frío y húmedo, y la transición entre temporadas de lluvia y sequía, lo que favorece el desarrollo del patógeno sobre tallos secos y hojarasca que se acumulan en la parte superior de los árboles. Manejo preventivo. Deben mejorarse las condiciones de luminosidad y aireación en los cafetales, ajustando el número de tallos por hectárea de acuerdo con la densidad de siembra y sistema de producción, regulando adecuadamente el sombrío, retirando chamizas y hojarasca acumulada en la parte superior del árbol de café, especialmente después de la cosecha. En época de lluvia deben hacerse revisiones periódicas y realizar la poda de ramas enfermas, preferiblemente en estado de costra rosada. Las ramas podadas en estado de costra rosada deben retirarse del lote en un costal o bolsa plástica. Si las ramas están secas y no tienen estructuras del hongo pueden dejarse sobre el suelo. Este manejo también debe hacerse sobre ramas afectadas de otras plantas hospedantes que aportan inóculo y ayudan a diseminar la enfermedad. Control químico. Es más efectivo cuando se realiza en los primeros ciclos de la enfermedad, cuando el hongo se encuentra en la etapa micelial o de telaraña superficial sobre hojas y frutos, antes que penetre e infecte los tejidos. Cuando se han generado los daños internos y se observen costras de color blanquesino a rosado en frutos o ramas, es poco efectivo el control químico. Después de que se realicen las podas sanitarias de ramas para remover fuentes de inóculo, pueden aplicarse fungicidas cúpricos como óxido cuproso de 50% de cobre aplicado a razón de 4 g/L de agua. Las aplicaciones del fungicida cyproconazole + azoxystrobin (AmistarZTRA 28 SC) en dosis de 750 cm3/ha (1,8 cm3/ha), en dos a tres aplicaciones al año, con intervalo de 45 días a partir de 60 días después de la floración principal en el café, son eficientes. El control químico se realiza princi almente por focos, pero de darse la enfermedad en más del 10% de incidencia como ramas afectadas del tercio productivo, es conveniente considerar la aplicación generalizada con el concepto de un ingeniero agrónomo del Servicio de Extensión de la FNC.",
+
+"Síntomas"
+{
+"sintoma1":"Ramas y Hojas Secas: En ataques severos, las ramas, hojas y frutos afectados aparecen secos, como si hubieran sido quemados, dando la apariencia de "brasa" o "quema" a la enfermedad.",
+"sintoma2":"Hojas Marchitas: Las hojas afectadas se marchitan y se vuelven de color marrón.",
+"sintoma3":"Frutos Momificados: Los frutos pueden momificarse y secarse en las ramas afectadas.Defoliación: La enfermedad puede causar una reducción significativa del follaje, dejando a la planta sin hojas y sin frutos.",
+"sintoma4":"Defoliación: La enfermedad puede causar una reducción significativa del follaje, dejando a la planta sin hojas y sin frutos.",
+"sintoma5":"Destrucción de Tejidos: El hongo causa la destrucción de los tejidos conductores de agua y nutrientes en el tallo principal y en las ramas, lo que provoca el secamiento de las mismas."
+"sintoma6":"Pérdida de Cosecha: En ataques severos, el mal rosado puede afectar la totalidad de la cosecha de una rama."
+}
+
+"Causas":
+{
+"causa1":"Hongo Patógeno: El mal rosado es causado por el hongo Corticium salmonicolor, que se desarrolla en condiciones específicas y afecta a tallos, ramas, hojas y frutos de las plantas de café.",
+"causa2":"Alta Humedad: La enfermedad se presenta con mayor frecuencia en condiciones de alta humedad y lluvias prolongadas, que favorecen el desarrollo del hongo.",
+"causa3":"Temperaturas Elevadas: Las temperaturas cálidas, combinadas con alta humedad, crean un ambiente propicio para la infección.",
+"causa4":"Nubosidad: La presencia de nubosidad constante puede mantener la humedad en el ambiente, favoreciendo la proliferación del hongo.",
+"causa5":"Densidad de Plantación: Los cafetales sembrados a altas densidades pueden aumentar la humedad y dificultar la circulación de aire, creando condiciones favorables para el desarrollo del hongo.",
+"causa6":"Acumulación de Residuos: La acumulación de hojas secas y tallos en la parte superior de los árboles proporciona un sustrato ideal para el hongo, que puede iniciar su parasitismo en estos tejidos.",
+"causa7":"Pobre Drenaje: Cafetos situados en áreas con mal drenaje o en hondonadas son más susceptibles a la enfermedad debido a la acumulación de agua.",
+"causa8":"Variedades Vulnerables: Algunas variedades de café pueden ser más susceptibles al mal rosado, lo que aumenta el riesgo de infección en cultivos que utilizan estas variedades.",
+"causa9":"Deficiencias Nutricionales: La nutrición inadecuada de las plantas puede debilitar su resistencia a enfermedades, aumentando la susceptibilidad al mal rosado.",
+"causa10":Propagación de la Enfermedad: La cercanía entre parcelas sanas y enfermas puede facilitar la propagación del hongo, especialmente en condiciones climáticas favorables."
+}
+
+"Tratamiento":
+{
+	"Control químico":
+		{
+			"tratamiento1":"Aplicación de Fungicidas: En casos de infecciones severas, se puede recurrir al uso de fungicidas a base de cobre, como óxido cuproso o hidróxido de cobre, aplicados a intervalos de 30 días. También se pueden utilizar fungicidas sistémicos como propiconazol o tebuconazol.",
+			"tratamiento2":"Momento de Aplicación: Las aplicaciones deben realizarse de manera preventiva, antes de que se presenten las condiciones favorables para el desarrollo de la enfermedad, como épocas de lluvias prolongadas."
+		}
+	"Control agroecológico":
+		{
+			"tratamiento1":"Poda y Saneamiento: Realizar podas sanitarias después de la cosecha para eliminar ramas y tejido enfermo. Recolectar y destruir ramas afectadas.",
+			"tratamiento2":"Manejo de Sombra: Ajustar adecuadamente la sombra para permitir una mejor circulación de aire y evitar la acumulación de humedad, especialmente durante épocas lluviosas.",
+			"tratamiento3":"Drenaje: Mejorar el drenaje en áreas con encharcamientos para evitar la acumulación de agua, que favorece el desarrollo del hongo.",
+			"tratamiento4":"Control de Malezas: Mantener un buen control de malezas, evitando la acumulación de material vegetal que pueda servir como fuente de inóculo.",
+			"tratamiento5":"Uso de Variedades Tolerantes: Establecer el cafetal con variedades que presenten tolerancia al mal rosado, como Castillo o Colombia. Esto reduce significativamente la susceptibilidad a la enfermedad."
+		}
+}
+}

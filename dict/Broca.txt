@@ -1,0 +1,46 @@
+{
+"Enfermedad":"Broca",
+
+"Descripción": "La broca del café, causada por el escarabajo Hypothenemus hampei, es una de las plagas más destructivas que afectan a los cultivos de café. Los síntomas de infestación y las causas de su propagación son cruciales para su manejo efectivo",
+
+"Imagen":"https://www.invesa.com/wp-content/uploads/2020/10/Broca.jpg",
+
+"Extendido": "La broca del fruto del café penetra a las cerezas y se reproduce en el interior del grano, causando la pérdida total y en muchos casos, la caída prematura de los frutos. Además, afecta la calidad física del grano y la calidad de la bebida del café. La broca hembra pone entre 2 y 3 huevos durante 20 días. El adulto macho no hace daño, sólo participa en la reproducción.  El ciclo, desde el huevo hasta el adulto, dura unos 28 días. La hembra que coloniza un grano, una vez comienza a poner huevos permanece dentro del fruto hasta su muerte, cuidando su descendencia (los huevos y larvas). La broca penetra con mayor rapidez en los frutos maduros. Ataca los frutos cuando estos tienen más de 150 días de formados", 
+
+"Síntomas":
+{
+	"sintoma1":"Orificios de Entrada: La broca perfora los frutos de café, dejando pequeños orificios de aproximadamente 1 mm de diámetro. Estos orificios son la entrada donde las hembras adultas depositan sus huevos",
+	"sintoma2":"Depósitos en la Perforación: Alrededor de los orificios, se pueden observar depósitos de color marrón, gris o verde, que son excrementos del insecto",
+	"sintoma3":"Lesiones Negras o Marrones: A medida que la larva se alimenta del interior del grano, se producen lesiones visibles en la superficie del fruto, que pueden aparecer como manchas negras o marrones",
+	"sintoma4":"Frutos Caídos: La infestación puede provocar la caída de frutos tanto verdes como maduros. Esto ocurre debido al daño estructural que causa el insecto al alimentarse de la pulpa del fruto",
+	"sintoma5":"Granos Dañados: Los granos que han sido infestados por la broca suelen tener un peso reducido y una calidad inferior, lo que afecta su comercialización"
+},
+
+"Causas":
+{
+	"causa1":"Humedad y Temperatura: La broca se desarrolla mejor en condiciones de alta humedad y temperaturas cálidas, que favorecen su ciclo de vida y reproducción. Las condiciones climáticas pueden influir en la severidad de la infestación",
+	"causa2":"Variedades de Café: Las variedades de café más susceptibles incluyen Coffea arabica, Coffea robusta y Coffea quillou. Las variedades excelsa y libérica son menos afectadas, lo que sugiere que la elección de la variedad puede influir en la infestación",
+	"causa3":"Movilidad de los Insectos: Las hembras adultas pueden volar utilizando corrientes de aire, lo que les permite dispersarse a otros cafetales. Este comportamiento de vuelo puede extender la infestación a nuevas áreas",
+	"causa4":"Contaminación de Granos: La broca puede dispersarse a través de granos o semillas contaminadas, café en fruta, pergamino que transporta larvas, así como herramientas de trabajo y ropa",
+	"causa5":"Manejo Deficiente: La falta de prácticas adecuadas de manejo agrícola, como la recolección oportuna de frutos y el saneamiento de los cafetales, puede aumentar la vulnerabilidad a la broca. La acumulación de frutos caídos y dañados puede servir como refugio para la plaga",
+	"causa6":"Condiciones de Almacenamiento: El almacenamiento inadecuado de granos de café también puede facilitar la infestación, ya que los escarabajos pueden sobrevivir en granos secos"
+},
+
+"Tratamiento":
+{
+"Control químico":
+		{
+			"tratamiento1":"Aplicación de Insecticidas: Utilizar insecticidas como clorpirifos y cipermetrina. Estos productos actúan por contacto e ingestión, afectando el sistema nervioso del insecto. Es importante rotar los productos para evitar la resistencia"
+		}
+"Control agroecológico":
+		{
+			"tratamiento1":"Recolección Manual: Es fundamental realizar la recolección manual de los frutos maduros, sobremaduros y secos que quedan en los árboles y en el suelo. Esto ayuda a romper el ciclo de vida del insecto, ya que la broca sobrevive en estos frutos",
+			"tratamiento2":"Saneamiento de Campo: Después de la cosecha, se deben retirar y destruir los frutos caídos y los que están infestados. Esto minimiza los refugios disponibles para la broca y reduce su población en la siguiente temporada",
+			"tratamiento3":"Manejo de Malezas: El control de las plantas no deseadas es crucial, ya que algunas malezas pueden servir como hospedadoras temporales para la broca",
+			"tratamiento4":"Uso de Hongos Entomopatógenos: El hongo Beauveria bassiana es un biopesticida eficaz contra la broca del café. Se aplica mezclando el hongo con agua y jabón neutro, y se rocía sobre los frutos. Este hongo infecta a la broca, causando su muerte en pocos días",
+			"tratamiento5":"Depredadores Naturales: Fomentar la presencia de insectos depredadores, como ciertas especies de hormigas y coleópteros, puede ayudar a controlar la población de la broca",
+			"tratamiento6":"Trampas Atrayentes: Se pueden construir trampas utilizando botellas recicladas con una mezcla de café molido y alcohol. Estas trampas atraen a la broca y permiten capturarla, reduciendo así su población",
+			"tratamiento7":"Plantas Acompañantes: Incorporar plantas que actúen como repelentes o que atraigan enemigos naturales de la broca puede ser beneficioso. Por ejemplo, se ha observado que plantas como Nicotiana tabacum (tabaco) pueden repeler a la broca, mientras que otras pueden atraer insectos depredadores",
+			"tratamiento8":"Fertilización Orgánica: La aplicación de compost y otros fertilizantes orgánicos puede mejorar la salud del suelo y la resistencia de las plantas a las plagas"
+		}
+}

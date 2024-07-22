@@ -1,0 +1,47 @@
+{
+"Enfermedad":"Mancha de hierro",
+
+"Imagen":"https://eva.iniap.gob.ec/agro/wp-content/uploads/2018/11/cercospora1-e1541453719623.jpg",
+
+"Descripción":"La mancha de hierro es una enfermedad que afecta a los cultivos de café, causada por el hongo Cercospora coffeicola. Esta enfermedad puede provocar daños significativos tanto en las hojas como en los frutos del cafeto.",
+
+"Extendido":"Esta enfermedad es característica de las hojas del café, tanto en estado de almácigo como en plantas adultas, pero es más importante cuando ataca los frutos de café, especialmente en estado inmaduro, ya que resulta en pérdidas significativas de calidad y cantidad de cosecha. El ataque en granos verdes puede causar el secamiento de los frutos en el árbol, provocando su caída temprana, reducir el peso del grano o secar la pulpa sobre los granos, lo que resulta en manchado del café pergamino y el aumento en la proporción de café pasilla o “guayaba”, además de defectos significativos en la almendra y la calidad de la bebida. Todas las especies y variedades de café han mostrado susceptibilidad a esta enfermedad. En almácigos. Como manejo preventivo de la mancha de hierro debe acondicionarse el sustrato de suelo con materia orgánica bien descompuesta (pulpa de café o gallinaza), preferible usando la bolsa de 17 x 23 cm, y cuando la materia orgánica es baja debe complementarse la nutrición mediante dos aplicaciones de 2,0 g/bolsa de fosfato diamónico (DAP), a los 2 y 4 meses. Si se requieren medidas más estrictas, deben aplicarse al follaje 4,0 g/L de dithiocarbamatos (Dithane o Mancozeb) o 1,0 mL/L de un triazol (Punch 40CE o Alto 100SL), con intervalos de 30 a 45 días, dependiendo de la intensidad de la enfermedad y de las condiciones de clima. Al ser una enfermedad favorecida también por alta temperatura y la radiación solar, debe regularse durante el día y mantenerse la sombra en el almácigo mediante el uso de umbráculos o polisombras. Plantaciones. En plantaciones en levante y productivas, una fertilización adecuada, oportuna y balanceada basada en el análisis de suelos, es suficiente para mantener baja la incidencia de la mancha de hierro. En sitios donde la enfermedad es endémica, por efecto de suelos poco aptos para café o por microclimas con exceso de brillo solar, se recomienda el establecimiento de sombríos transitorios con sistemas de maíz y fríjol o con leguminosas como tefrosia y guandul, con el fin de regular el brillo solar durante el levante. Dependiendo del brillo solar y de la precipitación debe considerarse el establecimiento de sombrío permanente y su regulación durante la etapa productiva del cultivo. Es posible realizar el control químico en cultivos establecidos con dos a tres aplicaciones de cyproconazole (Alto 100SL, 0,25 L/ha), pyraclostrobin (Comet, 0,6 L/ha) y cyproconazole + azoxystrobin (Amistar ZTRA, 0,75 L/ha), entre los 60 a 90 y 120 días después de la floración principal, que es la época crítica para llenado de grano en los frutos.",
+
+"Síntomas":
+{
+"sintoma1":"Lesiones Negras o Marrones: Se presentan manchas de color negro o marrón en las hojas, que pueden ser de forma irregular. Estas manchas son típicamente más visibles en las hojas más viejas.",
+"sintoma2":"Coloración Amarillenta: Las hojas afectadas pueden mostrar una clorosis, es decir, un amarillamiento generalizado. Esto se debe a la incapacidad de la planta para absorber adecuadamente el hierro, lo que afecta la fotosíntesis.",
+"sintoma3":"Pérdida de Hojas: En casos severos, las hojas pueden caer prematuramente, lo que afecta la salud general de la planta y su capacidad para producir frutos.",
+"sintoma4":"Desarrollo Deficiente: Las plantas afectadas pueden mostrar un crecimiento reducido y un desarrollo deficiente en comparación con las plantas sanas."
+"sintoma5":"Frutos de Baja Calidad: La enfermedad puede afectar la calidad de los frutos, resultando en granos de menor tamaño y calidad inferior, lo que impacta en la producción y el rendimiento del café."
+}
+
+"Causas":
+{
+"causa1":"Falta de Hierro: La deficiencia de hierro es la causa principal de la mancha de hierro. Este micronutriente es esencial para la fotosíntesis y el crecimiento adecuado de la planta. Cuando hay una falta de hierro, se producen síntomas de clorosis y manchas en las hojas.",
+"causa2":"Desequilibrio de Nutrientes: Un desequilibrio en la disponibilidad de otros nutrientes, como el manganeso y el zinc, también puede contribuir a la aparición de la enfermedad. La competencia entre nutrientes en el suelo puede afectar la absorción de hierro.",
+"causa3":"Acidez del Suelo: Los suelos ácidos pueden limitar la disponibilidad de hierro para las plantas. Un pH bajo puede dificultar la absorción de nutrientes esenciales, incluyendo el hierro.",
+"causa4":"Compactación del Suelo: La compactación del suelo puede afectar la capacidad de las raíces para absorber agua y nutrientes, lo que puede llevar a deficiencias nutricionales.",
+"causa5":"Humedad y Temperatura: Las condiciones climáticas, como la alta humedad y temperaturas extremas, pueden estresar a las plantas y hacerlas más susceptibles a deficiencias nutricionales.",
+"causa6":"Condiciones de Riego: Un riego inadecuado, ya sea por exceso o por falta, puede afectar la salud de las raíces y la capacidad de la planta para absorber nutrientes, contribuyendo a la aparición de la mancha de hierro.",
+"causa7":"Manejo Inadecuado de Fertilizantes: La aplicación incorrecta de fertilizantes o la falta de un programa de fertilización adecuado pueden resultar en deficiencias de nutrientes, incluyendo el hierro.",
+"causa8":"Monocultivo: La falta de diversidad en los cultivos puede agotar ciertos nutrientes del suelo, aumentando la susceptibilidad de las plantas a enfermedades como la mancha de hierro."
+}
+
+"Tratamiento":
+{
+"Control químico":
+	{
+		"tratamiento1":"Aplicación de Fungicidas: Se recomienda el uso de fungicidas protectores y sistémicos. Aplicaciones a intervalos de 30 días pueden ser efectivas, especialmente a los 60, 90 y 120 días después de la floración principal. Los fungicidas a base de cobre y otros productos específicos para Cercospora pueden ser útiles.",
+		"tratamiento2":"Uso de Fungicidas en Almácigos: En la etapa de almácigo, se sugiere preparar los sustratos con fungicidas para prevenir la enfermedad desde el inicio."
+	},
+"Control Agroecológico":
+	{
+		"tratamiento1":"Regulación de Sombríos: Mantener un nivel adecuado de sombra en los cafetales ayuda a reducir la humedad en el ambiente, lo que puede limitar la proliferación del hongo.",
+		"tratamiento2":"Densidad de Siembra y Manejo de Ramas: Es importante ajustar la densidad de siembra y realizar podas adecuadas para mejorar la circulación del aire y la penetración de luz en el cafetal.",
+		"tratamiento3":"Saneamiento: Retirar y destruir hojas y frutos enfermos del campo ayuda a reducir la fuente de inóculo. Esto incluye la eliminación de restos de cosecha y la limpieza de herramientas.",
+		"tratamiento4":"Análisis de Suelos: Realizar análisis de suelos para determinar las necesidades nutricionales de las plantas. La fertilización adecuada, especialmente con micronutrientes como el hierro, puede ayudar a prevenir la enfermedad.",
+		"tratamiento5":"Fertilización Orgánica: Aplicar materia orgánica, como compost, puede mejorar la salud del suelo y la capacidad de las plantas para resistir enfermedades.",
+		"tratamiento6":"Uso de Micorrizas: La aplicación de hongos micorrízicos puede ayudar a mejorar la salud de las raíces y la absorción de nutrientes, lo que puede aumentar la resistencia de las plantas a la enfermedad.",
+		"tratamiento7":Fomentar la Biodiversidad: Promover la presencia de organismos benéficos en el ecosistema del cafetal puede ayudar a controlar la enfermedad de manera natural."
+	}

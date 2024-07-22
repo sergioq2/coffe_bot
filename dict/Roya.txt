@@ -1,0 +1,42 @@
+{
+ "Enfermedad":"Roya",
+
+"Descripción": "La roya del café, causada por el hongo Hemileia vastatrix, es una de las enfermedades más destructivas que afectan a los cultivos de café en todo el mundo",
+  
+ "Extendido": "La roya del cafeto es la principal enfermedad en el cultivo del Café. Está íntimamente ligada al desarrollo fisiológico del cultivo, al nivel de producción de la planta y a la distribución y cantidad de lluvia. La zona óptima de producción de café en Colombia está ubicada en el rango óptimo de desarrollo de la enfermedad, con una temperatura promedio de 22°C. Actualmente, se recomienda estar atentos a la presencia e impacto de la enfermedad, en cualquier condición altitudinal donde se cultive café, y si es del caso controlarla. El manejo de la roya del cafeto en las variedades susceptibles debe ser oportuno, cuando apenas se encuentra en su fase lenta en los primeros ciclos de la epidemia. Su manejo se basa en los criterios de índices de infección, calendarios fijos dependiendo de los patrones de floración histórica y de cosecha de la zona, y de la ocurrencia de floraciones principales definidas. Deben evaluarse los niveles de infección en los lotes para definir el momento de control y si debe
+realizarse con fungicidas protectores, sistémicos solos o en mezcla con protectores. Este método está basado en el conocimiento del efecto sobre la producción de determinados niveles de hojas afectadas por roya en la planta y permite utilizar racionalmente los fungicidas sistémicos, sin crear condiciones que favorezcan la presencia de nuevas razas del hongo, e igualmente, disminuir el número de aspersiones. Con ello se logra la reducción de los costos de control de la enfermedad y de producción en el cultivo. En este sistema es necesario considerar que los fungicidas sistémicos no deben utilizarse en mezcla con fungicidas protectores.",
+
+"imagen": "https://perfectdailygrind.com/es/wp-content/uploads/sites/2/2021/01/La-Roya-1.jpg",
+
+"Síntomas":
+{"sintoma1":"Manchas amarillas/naranjas en el envés de las hojas",
+ "sintoma2":"Manchas amarillas correspondientes en el haz",
+ "sintoma3":"Las hojas eventualmente se vuelven marrones y se caen",
+ "sintoma4":"pequeñas manchas amarillas pálidas en la superficie superior de las hojas"},
+
+"Causas":
+{"causa1":"Hongo Patógeno: La roya es provocada por el hongo Hemileia vastatrix, que tiene un ciclo de vida complejo y produce múltiples esporas que se dispersan fácilmente, principalmente por el viento y la lluvia",
+ "causa2":"Razones Genéticas: Existen diferentes razas del hongo que pueden atacar variedades específicas de café. Algunas variedades de café son más susceptibles, como las derivadas de Typica y Bourbon",
+ "causa3": "Humedad: La roya prospera en condiciones de alta humedad, especialmente durante períodos lluviosos. La presencia de rocío o lluvias frecuentes favorece la germinación de las esporas",
+ "causa4":"Temperatura: Las temperaturas óptimas para el desarrollo del hongo oscilan entre 15 °C y 25 °C. Condiciones de temperatura inadecuadas pueden limitar el crecimiento del hongo, pero cuando se dan las condiciones adecuadas, la enfermedad puede propagarse rápidamente",
+ "causa5":"Sombras y Nublados: La falta de luz solar directa, como en áreas con sombra o cielos nublados, puede crear un ambiente propicio para la infección",
+ "causa6":"Manejo Deficiente: La falta de prácticas adecuadas de manejo agrícola, como la poda, la fertilización y el control de malezas, puede aumentar la susceptibilidad de los cafetos a la roya",
+ "causa7":"Variedades Susceptibles: Plantar variedades de café que no tengan resistencia a la roya puede facilitar su propagación"},
+
+"Tratamiento":
+{
+"Control químico":
+{"tratamiento1":"Fungicidas Sistémicos: Se recomienda el uso de fungicidas sistémicos para tratar brotes más severos de roya. Estos fungicidas son absorbidos por la planta y ofrecen una protección más prolongada",
+ "tratamiento2":"Fungicidas a Base de Cobre: Se utilizan principalmente cuando la infección es leve. Los fungicidas a base de cobre son efectivos en la prevención y control de la roya, especialmente en aplicaciones tempranas y regulares",
+ "tratamiento3":"Alternancia de Fungicidas: Es aconsejable alternar o combinar diferentes tipos de fungicidas (sistémicos y a base de cobre) para evitar que el hongo desarrolle resistencia y mejorar la eficacia del tratamiento"},
+
+"Control agroecológico":
+{"tratamiento1":"Mantener una buena sombra y realizar podas adecuadas puede ayudar a reducir la incidencia de la roya. También es importante controlar las malezas para evitar la competencia por nutrientes",
+ "tratamiento2":"Extractos de plantas, como los de Cinnamomum verum (canela) y Citrus sinensis (naranja), pueden reducir la severidad de la roya. Estos extractos actúan como biofungicidas, activando las defensas naturales de las plantas",
+ "tratamiento3":"La rotación de cultivos y la diversificación pueden ayudar a interrumpir el ciclo de vida del hongo, reduciendo su propagación",
+ "tratamiento4":"Mantener un buen control de malezas es crucial para minimizar la competencia por nutrientes y mejorar la circulación del aire, lo que ayuda a secar rápidamente las hojas y reduce la humedad que favorece la infección",
+ "tratamiento5":"Uso de biochar mejora la disponibilidad de nutrientes y fomentar microorganismos antagonistas que inhiben el crecimiento del hongo",
+ "tratamiento6":"Utilización de larvas de Mycodiplosis, que pueden actuar como depredadores del hongo, ayudando a controlar su propagación",
+ "tratamiento7":"El uso de vermicompost no solo nutre las plantas, sino que también puede aumentar su tolerancia a la roya. La fertilización adecuada con micronutrientes puede reducir la susceptibilidad de las plantas al hongo",
+ "tratamiento8":"Mantener una buena salud del suelo a través de prácticas como la aplicación de compost y la rotación de cultivos es esencial para mejorar la resistencia de las plantas a enfermedades"}}
+}

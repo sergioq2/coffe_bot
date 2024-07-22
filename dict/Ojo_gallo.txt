@@ -1,0 +1,49 @@
+{
+"Enfermedad":"Ojo de gallo o gotera",
+
+"Descripción":"El ojo de gallo es una enfermedad producida por el hongo Mycenia citricolor, que ataca las ramas, hojas y frutos de la planta de café",
+
+"Imagen":"https://www.cenicafe.org/es/images/image0021.jpg",
+
+"Extendido": "El síntoma típico de la enfermedad es la formación de lesiones circulares u ovaladas en las hojas, que tienen color rojizo y se tornan gris claro a medida que envejecen. Eventualmente terminan desprendiéndose de la hoja, dejando un agujero en medio del tejido aún verde. El principal efecto de estas lesiones es causar la caída prematura de la hoja, que puede llevar a defoliaciones que comprometen el llenado de los granos. De igual forma afecta severamente los frutos de todas las edades causando su necrosis, daños en calidad y peso, y caída prematura de los mismos; además de daños en ramas y brotes hasta producir en ocasiones muerte de plantas completas. Todas las variedades cultivadas son susceptibles a la gotera. Para iniciar la infección sobre las hojas, ramas o los frutos, el hongo requiere de altas precipitaciones, humedad permanente, baja temperatura y bajo brillo solar. Estas condiciones se encuentran usualmente en cafetales bajo sombrío abundante, propias de los cultivos tradicionales. Ese patógeno tiene numerosas especies de plantas hospedantes, tanto cultivadas como arvenses y sombrío, lo cual favorece la continuidad de las epidemias y la producción permanente de inóculo infectivo del hongo. El control químico de la gotera también es preventivo y se basa en el inicio de las lluvias, de tal forma que se realice la aplicación del fungicida cyproconazole (Alto 100 SL, de 1,0 a 2,0 cm3/L de mezcla con agua), de 30 a 60 días después de la floración ó 15 días antes que se establezcan las lluvias, antes que la enfermedad alcance el 10% de incidencia de hojas afectadas, y se realicen unas tres aplicaciones con intervalo de 30 a 45 días a partir de la primera aplicación",
+
+"Síntomas":
+	{
+		"sintoma1":"Lesiones Circulares: Inicialmente, se observan manchas semicirculares de color marrón oscuro en las hojas. Con el tiempo, estas lesiones pueden cambiar a un color más claro, a menudo con bordes oscuros.",
+		"sintoma2":"Tamaño de las Lesiones: Las manchas son del tamaño de una gota de agua y pueden ser numerosas, lo que lleva a una defoliación significativa.",
+		"sintoma3":"Manchas en Frutos Verdes: Los frutos de café también pueden mostrar lesiones redondas y hundidas, que presentan necrosis del tejido. Estas lesiones pueden afectar tanto a los frutos en desarrollo como a los maduros.",
+		"sintoma4":"Caída de Frutos: La enfermedad puede provocar la caída prematura de los frutos, lo que afecta la producción y calidad del café.",
+		"sintoma5":"Pérdida de Hojas: En casos severos, la defoliación es notable, lo que reduce el área fotosintética de la planta y afecta su salud general.",
+		"sintom6":"Debilitamiento General: Las plantas afectadas pueden mostrar un debilitamiento general, lo que se traduce en un crecimiento deficiente y una menor producción de café."
+	}
+
+"Causas":
+	{
+		"causa1":"Alta humedad: La enfermedad se favorece en condiciones de alta humedad ambiental",
+		"causa2":"Presencia de lluvias: Las lluvias frecuentes y diarias contribuyen a la propagación del hongoBancos de niebla: Los bancos de niebla también crean un ambiente favorable para el desarrollo de la enfermedad.",
+		"causa3":"Bancos de niebla: Los bancos de niebla también crean un ambiente favorable para el desarrollo de la enfermedad.",
+		"causa4":"Presencia de nubosidad: La nubosidad disminuye la radiación solar y los rayos UV durante el día, creando condiciones propicias para el desarrollo del hongo.",
+		"causa5":"Algunas variedades de café son más susceptibles a la enfermedad que otras, como las derivadas de Typica y Bourbon.",
+		"causa6":"Falta de control de malezas: Las malezas pueden servir como hospederas alternativas para el hongo.",
+		"causa7":"Deficiente manejo de sombra: Una sombra excesiva o mal regulada crea condiciones de humedad y poca luz que favorecen al hong.",
+		"causa8":"En hojas caídas al suelo: El hongo sobrevive en las hojas enfermas que caen al suelo del cafetal.",
+		"causa9":En cancros sobre las ramas: El hongo también puede sobrevivir en lesiones o cancros presentes en las ramas de las plantas de café.",
+		"causa10":En plantas hospederas: Ciertas plantas dicotiledóneas pueden servir como hospederas alternativas para el hongo."
+	}
+
+"Tratamiento":
+	{
+		"Control químico":
+		{
+			"tratamiento1":"Aplicación de Fungicidas: En áreas con mayor afección, se recomienda el uso de fungicidas. Se sugiere aplicar productos como Atemi (500 mL) y Cepex (2 L) por hectárea, o Silvacur (700 mL) y Cepex (2 L) por hectárea, en los meses de mayor riesgo, como mayo, agosto y septiembre.",
+			"tratamiento2":"Fungicidas Preventivos: Aplicar fungicidas preventivos después de la poda para disminuir la presión de la enfermedad. Es importante realizar muestreos antes y después de las aplicaciones para evaluar la efectividad del tratamiento"
+		},
+		"control agroecológico":
+		{
+			"tratamiento1":"Poda: Realizar podas sanitarias inmediatamente después de la cosecha para eliminar el tejido afectado y favorecer una mayor aireación y entrada de luz al cafetal. Esto ayuda a reducir la humedad, que favorece el desarrollo del hongo",
+			"tratamiento2":"Arreglo de Sombra: Ajustar la sombra en los cafetales para permitir una mayor entrada de luz y ventilación, especialmente durante los meses lluviosos. Se recomienda realizar arreglos de sombra al menos dos veces al año",
+			"tratamiento3":"Control de Malezas: Mantener las malezas a poca altura para disminuir la posibilidad de que sirvan como hospedadores del hongo. Esto también mejora la circulación del aire y reduce la humedad en el cafetal",
+			"tratamiento4":"Fomentar la Biodiversidad: Promover la presencia de organismos benéficos en el ecosistema del cafetal puede ayudar a controlar la enfermedad de manera natural. Esto incluye el uso de microorganismos que pueden actuar como antagonistas del hongo."
+		}
+	}
+}
